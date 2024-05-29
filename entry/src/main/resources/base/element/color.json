@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_blue",
+      "value": "#FF02ACE2"
+    },
+    {
+      "name": "color_whit",
+      "value": "#ffffff"
+    },
+    {
+      "name": "color_black",
+      "value": "#000000"
+    },
+    {
+      "name": "color_shallow_gray",
+      "value": "#FFD6D6D6"
+    }
+  ]
+}

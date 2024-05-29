@@ -1,0 +1,10 @@
+{
+  "license": "Apache License 2.0",
+  "devDependencies": {},
+  "name": "entry",
+  "description": "example description",
+  "version": "1.0.1",
+  "dependencies": {
+
+  }
+}

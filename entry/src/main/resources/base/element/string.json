@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "home_page",
+      "value": "首页"
+    },
+    {
+      "name": "navi_page",
+      "value": "路线"
+    },
+    {
+      "name": "teach_page",
+      "value": "教程"
+    },
+    {
+      "name": "mine_page",
+      "value": "我的"
+    }
+  ]
+}
